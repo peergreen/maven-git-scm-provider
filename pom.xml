@@ -19,7 +19,7 @@
 
   <groupId>com.peergreen.maven</groupId>
   <artifactId>git-scm-provider</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>Peergreen Git SCM Provider</name>
   <description>
@@ -32,7 +32,7 @@
     <connection>scm:git:https://forge.peergreen.com/git/git/maven/git-scm-provider.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/maven/git-scm-provider.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=maven/git-scm-provider.git</url>
-    <tag>GIT_SCM_PROVIDER_1_0_0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
